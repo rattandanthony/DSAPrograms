@@ -3,7 +3,7 @@
 #include <math.h>
 int cnt=0; // global variable
 
-
+// this I added at the local version of the file
 int getMinIndex( int a[], int start, int len)
 {
     int minIdx = start;
